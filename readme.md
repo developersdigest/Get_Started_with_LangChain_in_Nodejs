@@ -3,14 +3,3 @@ From my YouTube Video "Get Started with LangChain in Node.js in 10 Minutes": htt
 # Retrieval-based QA System with Embeddings using langchain
 
 This is an example code for running a retrieval-based question answering (QA) system with embeddings using the `langchain` library. The code demonstrates how to create and utilize a vector store to retrieve answers to questions from a given text file.
-
-## Installation
-
-To run this code, you need to install the following dependencies:
-
-```bash
-# Install langchain
-npm install langchain
-
-# Install other necessary libraries
-npm install fs dotenv
